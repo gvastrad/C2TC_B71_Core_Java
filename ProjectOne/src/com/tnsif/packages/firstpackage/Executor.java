@@ -20,7 +20,7 @@ public class Executor {
 			b1.methodProtected();
 			
 			b1.varPublic=41;
-			b1.methodPublic();
+			b1.methodPublic();		
 			
 }
 }

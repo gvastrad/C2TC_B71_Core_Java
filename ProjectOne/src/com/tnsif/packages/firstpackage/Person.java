@@ -3,7 +3,7 @@ package com.tnsif.packages.firstpackage;
 public class Person {
 	private String personName;
 	private int personAge;
-	private String personCity;
+    private String personCity;
 	
 	public String getPersonName() {
 		return personName;
@@ -25,7 +25,7 @@ public class Person {
 		return personCity;
 	}
 
-	public void setPersonCity(String personCity) {
+	 void setPersonCity(String personCity) {
 		this.personCity = personCity;
 	}
 
